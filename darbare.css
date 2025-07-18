@@ -1,0 +1,83 @@
+*{
+    font-family: sans-serif;
+    padding:auto;
+    margin: auto;
+}
+.container{
+width: 600px;
+background-color: rgb(87 13 17);
+margin-top: 88px;
+border-radius: 5px;
+}
+.header{
+    display: flex;
+}
+.img_right{
+width: 180px;
+}
+.txt_meddel{
+color: #fff;
+}
+.img_left{
+    width: 180px;
+}
+.padding{
+    padding: 1rem;
+}
+.txt_tool{
+    background-color: #fff;
+    padding: 0.75rem;
+    border-radius: 5px;
+}
+.txt_tool_p{
+    text-align: justify;
+}
+.tmas_cont{
+    padding: 0.75rem;
+    height: 99px;
+    background-color: #fff;
+    margin-top: 9px;
+    border-radius: 5px;
+}
+.link_maps{
+    text-decoration: none;
+    color: black;
+}
+.maps_icon{
+    width: 26px;
+    color: black;
+    height: 20px;
+}
+.txt_phone{
+    margin-top: 11px;
+}
+.phon_icon{
+    width: 24px;
+    height: 20px;
+}
+.inesta_cont{
+    padding: 0.75rem;
+    margin-right: -13px;
+}
+.inesta_link{
+    text-decoration: none;
+    color:black ;
+}
+.inesta_icon{
+    width: 24px;
+    height: 20px;
+    
+}
+.text{
+    background-color: #fff;
+    margin-top: 9px;
+    padding: 1rem;
+    text-align: center; 
+    border-radius: 5px; 
+}
+.link_txt{
+    text-decoration: none;
+    color: black;
+}
+
+
