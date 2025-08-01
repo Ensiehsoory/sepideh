@@ -1,0 +1,60 @@
+*{
+    padding:none;
+    margin: none;
+}
+.container{
+}
+@font-face {
+    font-family: yekan;
+    src: url("iranyekan web/IRANYekanWebMedium.eot") format('eot'),
+    url("iranyekan web/IRANYekanWebMedium.ttf") format('ttf'),
+    url("iranyekan web/IRANYekanWebMedium.woff") format('woff');
+}
+body{
+        font-family:  yekan;
+}
+.login{
+    max-width: 400px;
+    height: 400px;
+    margin-right: 500px;
+    margin-top: 140px;
+    background-color:#fff;
+    border: 1px solid #757575;
+    border-radius: 8px;
+}
+.login_cont{
+    padding: 2rem;
+}
+.img{
+    margin-right: 74px;
+}
+.h1{
+    color: #BF360C;
+}
+.txt_p{
+color: #424242;
+}
+.txt_p1{
+color: #424242;
+}
+.input{
+    width: 300px;
+    border-radius: 12px;
+    border:1px solid #795548;
+    padding: 1rem;
+    outline: none;
+}
+.button{
+    margin-top: 43px;
+    width: 332px;
+    height: 40px;
+    border-radius: 9px;
+    background-color:rgb(87 13 17);
+    font-size: 17px;
+    border: none;
+    color: #fff;
+}
+.button:hover{
+    background-color: #B71C1C;
+    cursor: pointer;
+}

@@ -1,0 +1,231 @@
+ *{
+    padding:auto;
+    margin: auto;
+}
+@font-face {
+    font-family: yekan;
+    src: url("iranyekan web/IRANYekanWebMedium.eot") format('eot'),
+    url("iranyekan web/IRANYekanWebMedium.ttf") format('ttf'),
+    url("iranyekan web/IRANYekanWebMedium.woff") format('woff');
+}
+body{
+        font-family:  yekan;
+}
+
+
+.header{
+    background-color: rgb(87 13 17);
+    height: 80px;  
+    margin-left: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 0px 1px 8px 8px;
+}
+.img_login{
+    width: 200px;
+    border-radius: 18px;
+    margin-right: 20px;
+}
+.login_group{
+    list-style-type: none;
+    align-items: center;
+    display: flex;
+    width: 513px;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.link__login__header{
+    text-decoration: none;
+    color: #fff;
+}
+.link__login__header:hover{
+    transform: scale(1.1);
+    border: 2rem white;
+}
+.open__login{
+background-color:#F0E68C;
+width:  190px;
+height: 39px;
+border-radius: 10px;
+padding: 2px 7px;
+margin-right: 30px;
+margin-left: 20px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.open__login:hover{
+    background-color: #fff;
+}
+.open__login__svg{
+    width: 18px;
+    color: rgb(87 13 17);
+}
+.link__login{
+    text-decoration: none;
+    color:rgb(87 13 17);
+    font-size: 14px;
+}
+.btn_img_cart{
+   background-color: antiquewhite;
+    width: 50px;
+    height: 40px;
+    margin-right: 270px;
+    border-radius: 10px;
+    border: none;
+}
+.shopping__cart__svg{
+    width: 39px;
+    height: 39px;
+    cursor:pointer;
+    margin-top: -6px;
+}
+.shopping__cart__svg:hover{
+    transform: scale(1.1);
+}
+.container{
+width: 600px;
+background-color: rgb(87 13 17);
+margin-top: 88px;
+border-radius: 5px;
+}
+.header{
+    display: flex;
+}
+.img_right{
+    width: 180px;
+}
+.txt_meddel{
+    color: #fff;
+}
+.img_left{
+    width: 180px;
+}
+.padding{
+    padding: 1rem;
+}
+.txt_tool{
+    background-color: #fff;
+    padding: 0.75rem;
+    border-radius: 5px;
+}
+.txt_tool_p{
+    text-align: justify;
+}
+.tmas_cont{
+    padding: 0.75rem;
+    height: 99px;
+    background-color: #fff;
+    margin-top: 9px;
+    border-radius: 5px;
+}
+.link_maps{
+    text-decoration: none;
+    color: black;
+}
+.mapss_icon{
+    width: 26px;
+    color: black;
+    height: 20px;
+}
+.txt_phone{
+    margin-top: 11px;
+}
+.phon_icon{
+    width: 24px;
+    height: 20px;
+}
+.inesta_cont{
+    padding: 0.75rem;
+    margin-right: -13px;
+}
+.inesta_link{
+    text-decoration: none;
+    color:black ;
+}
+.inesta_icon{
+    width: 24px;
+    height: 20px;
+}
+.txt_maps{
+
+}
+.text{
+    background-color: #fff;
+    margin-top: 9px;
+    padding: 1rem;
+    text-align: center; 
+    border-radius: 5px; 
+}
+.link_txt{
+    text-decoration: none;
+    color: black;
+}
+footer{
+    background-color: rgb(87 13 17);
+    border-radius: 2rem 2rem 0 0;
+    width: 1342px;
+    padding: 1rem;
+    height: 209px;
+        margin-top: 70px;
+}
+.restoran_footer{
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    margin-left: 181px;
+}
+.fo_footer{
+    margin-top: 9px;    
+}
+.maps_link{
+    text-decoration: none;
+}
+.maps_icon{
+    width: 25px;
+    height: 63px;
+    color: black;
+}
+.text_maps{
+    color: #ffff;
+}
+.txt_phone{
+}
+.phon_icon{
+    width: 21px;
+    height: 21px;
+    color: black;
+}
+.tel{
+    color: #fff;
+}
+.inesta_link{
+    text-decoration: none;
+}
+.inesta_icon{
+    color: black;
+    width: 21px;
+    height: 21px;
+}
+.text_inesta{
+    color: #fff;
+}
+.div_img{
+}
+.img_footer{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.text_footer{
+    color:#fff;
+    width: 354px;
+    margin-top: 24px;
+}
+.h6_footer{
+}
+.p_footer{
+    text-align: justify;
+    font-size: 14px;
+}
+
+
